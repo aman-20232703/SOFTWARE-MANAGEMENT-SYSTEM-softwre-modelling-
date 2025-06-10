@@ -55,7 +55,7 @@ This SRS outlines the complete functional and non-functional requirements for bu
 ## 🏗 System Design and Architecture
 
 - *Layered Architecture:*
-  - UI Layer: Dashboard, Registration, Admin Panel
+  - <b>UI Layer</b>: Dashboard, Registration, Admin Panel
   - Application Layer: Scheduling, Ticketing, Notifications
   - Utility Layer: APIs, Logging, Exception Handling
   - Core Layer: Event, Ticket, Venue, and User management modules
