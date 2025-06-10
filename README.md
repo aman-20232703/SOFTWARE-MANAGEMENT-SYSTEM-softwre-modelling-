@@ -54,15 +54,15 @@ This SRS outlines the complete functional and non-functional requirements for bu
 
 ## 🏗 System Design and Architecture
 
-- *Layered Architecture:*
+- ### *Layered Architecture:*
   - <b>UI Layer</b>: Dashboard, Registration, Admin Panel
-  - Application Layer: Scheduling, Ticketing, Notifications
-  - Utility Layer: APIs, Logging, Exception Handling
-  - Core Layer: Event, Ticket, Venue, and User management modules
+  - <b>Application Layer</b>: Scheduling, Ticketing, Notifications
+  - <b>Utility Layer</b>: APIs, Logging, Exception Handling
+  - <b>Core Layer</b>: Event, Ticket, Venue, and User management modules
 
-- *Component Design:* Includes detailed modules like Payment, Authentication, Notifications, Reporting
+- ### *Component Design:* Includes detailed modules like Payment, Authentication, Notifications, Reporting
 
-- *Data Design:* Entity-relationship tables (User, Event, Venue, Ticket, Payment, Notification)
+- ### *Data Design:* Entity-relationship tables (User, Event, Venue, Ticket, Payment, Notification)
 
 ---
 
